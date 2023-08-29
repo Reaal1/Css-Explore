@@ -1,0 +1,95 @@
+body{
+    align-items: center;
+}
+
+
+h1, p{
+    color: white;
+    font-weight: bold;
+    text-shadow:2px 2px purple;
+    
+}
+
+
+.forest{
+    text-align: center;
+    margin-top: -100px;
+}
+
+.forest-link{
+    position: relative;
+    top: 145px;
+   
+
+}
+
+.forest-water{
+    border: 
+    
+}
+
+.top-img{
+     
+     height: 150px;
+     width: 1011px;
+     padding: 1px;
+     border: 5px solid blueviolet;
+     
+}
+
+.bottom-img{
+    margin-left: 89px;
+    margin-top: 30px;
+     height: 300px;
+     width: 1000px;
+     padding: 7px;
+     border: 5px solid blueviolet;
+}
+
+
+button{
+    position: relative;
+    top: 10px;
+    right: 1000px;
+    background: blueviolet;
+  
+}
+
+
+
+
+
+.hike-p{
+    text-align: start;
+    margin-left: 118px;
+    margin-top: 30px;
+}
+
+a.hike-link{
+
+    position: relative;
+   background: red;
+       
+    top: 20px;
+    left: -1020px;
+    
+}
+
+a.hike-a{
+    color: blue;
+    text-align: start;
+    
+    margin-left: -850px;
+    margin-top: 30px;
+    
+}
+
+.hike-s{
+    padding-top: 20px;
+}
+a.hike-b{
+    color: blue;
+    text-align: start;
+    margin-left: -935px;
+    
+}
